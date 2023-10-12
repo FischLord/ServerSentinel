@@ -1,0 +1,2 @@
+# ServerSentinel
+ "ServerSentinel" ist eine fortschrittliche Serverüberwachungs- und -steuerungslösung, die es IT-Administratoren ermöglicht, Serverressourcen in Echtzeit zu überwachen und zu verwalten. Diese leistungsstarke Plattform bietet eine benutzerfreundliche Benutzeroberfläche und ermöglicht die Überwachung und Steuerung von Servern über IPMI und andere Schnittstellen. Mit "TheServerSentinel" behältst du stets den Überblick über die Leistung und Verfügbarkeit deiner Server, um Ausfallzeiten zu minimieren und die Effizienz deines Rechenzentrums zu optimieren.
